@@ -45,9 +45,9 @@ This project analyzes churn behavior among e-commerce customers using SQL. The g
 
 ## 👤 Author
 
-**Kushagra**  
-📫 [kushagraa2004@gmail.com](mailto:kushagraa2004@gmail.com)  
-🔗 GitHub: [kushagraa2004](https://github.com/kushagraa2004)  
+**Akash**  
+📫 [akash_bt22b2_05@dtu.ac.in](mailto:akash_bt22b2_05@dtu.ac.in)  
+🔗 GitHub: [aristotlelime](https://github.com/aristotlelime)  
 
 ---
 
